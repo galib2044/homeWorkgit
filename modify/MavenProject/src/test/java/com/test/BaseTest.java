@@ -61,6 +61,8 @@ public class BaseTest {
 			driver = new SafariDriver();
 		}
 		driver.get(prop.getProperty("url"));
+		System.out.println("cxvjksdgfcjh,asr");
+		
 
 	}
 
