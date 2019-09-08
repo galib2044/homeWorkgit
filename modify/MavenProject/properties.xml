@@ -1,0 +1,18 @@
+<suites name="regrassion">
+<test name ="uitest">
+<packages>
+<classes>
+<class>
+<methods>
+<include>
+</include>
+</methods>
+</class>
+
+</classes>
+
+</packages>
+
+</test>
+
+</suites>
